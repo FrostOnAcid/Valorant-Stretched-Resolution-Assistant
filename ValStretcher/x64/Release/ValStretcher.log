@@ -1,0 +1,23 @@
+﻿  ValStretcher.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(13,21): error C2039: 'filesystem': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\sstream(19,1):
+  see declaration of 'std'
+  
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(13,21): error C2878: 'filesystem': a namespace or class of this name does not exist
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(32,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(119,25): error C2039: 'filesystem': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\sstream(19,1):
+  see declaration of 'std'
+  
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(119,25): error C2878: 'filesystem': a namespace or class of this name does not exist
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(122,30): error C2653: 'fs': is not a class or namespace name
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(122,5): error C2530: 'entry': references must be initialized
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(122,5): error C3531: 'entry': a symbol whose type contains 'auto' must have an initializer
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(122,28): error C2143: syntax error: missing ';' before ':'
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(122,34): error C3861: 'recursive_directory_iterator': identifier not found
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(122,73): error C2143: syntax error: missing ';' before ')'
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(125,17): error C2653: 'fs': is not a class or namespace name
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(125,21): error C3861: 'exists': identifier not found
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(221,18): error C2653: 'fs': is not a class or namespace name
+C:\Users\frost\source\repos\ValStretcher\ValStretcher\ValStretcher.cpp(221,22): error C3861: 'exists': identifier not found
