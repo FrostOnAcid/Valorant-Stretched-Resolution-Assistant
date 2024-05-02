@@ -5,7 +5,7 @@ The Valorant Stretched Resolution Tool is a simple automation utility designed t
 <img src="https://frostchanger.de/images/applications/Valorant/stretched_res_valorant_tool_frostchanger.png" alt="ValStretcherByFrostChanger" width="720" height="400">
   </p>
 
-⚠️Note: I wrote this down within 30min and couldnt care less about "no clean code" since this is just for my YouTube to 
+⚠️Note: I wrote this code within 30min and couldnt care less about "no clean code" since this is just a simple tool which replaces manual steps.
 
 ## Getting Started
 
